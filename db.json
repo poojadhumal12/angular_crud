@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comments",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Aditya",
+      "lastName": "Dhumal",
+      "email": "aditya@gmail.com",
+      "dob": "2004-06-20T18:30:00.000Z",
+      "gender": "male",
+      "education": "Intermediate",
+      "company": "google",
+      "experince": 1,
+      "package": 15,
+      "id": "7826"
+    },
+    {
+      "firstName": "rutu",
+      "lastName": "salunke",
+      "email": "rutu@gmail.com",
+      "dob": "2001-03-17T18:30:00.000Z",
+      "gender": "female",
+      "education": "Diploma",
+      "company": "yahooo",
+      "experince": 3,
+      "package": 43,
+      "id": "20cc"
+    },
+    {
+      "firstName": "pooja",
+      "lastName": "dhumal",
+      "email": "pooja@gmail.com",
+      "dob": "2002-09-11T18:30:00.000Z",
+      "gender": "female",
+      "education": "Graduation",
+      "company": "sahyadri",
+      "experince": 6,
+      "package": 77,
+      "id": "d20e"
+    }
+  ]
+}
